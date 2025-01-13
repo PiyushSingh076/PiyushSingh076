@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Piyush Singh</h1>
-<h3 align="center">Developer ad Technology Enthusiast currently pursuing B.tech in Electrical and Electronics Engineering from NIT Trichy</h3>
+<h3 align="center">Developer and Technology Enthusiast currently pursuing B.tech in Electrical and Electronics Engineering from NIT Trichy</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
