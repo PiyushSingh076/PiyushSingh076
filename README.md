@@ -8,6 +8,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=piyushsingh076&show_icons=true&locale=en&layout=compact" alt="piyushsingh076" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piyushsingh076&" alt="piyushsingh076" /></p>
-
-
-
+ 
+<p >
+  <img src="https://github-readme-stats.vercel.app/api?username=PiyushSingh076&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
